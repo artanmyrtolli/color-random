@@ -3,7 +3,7 @@
 This website allows you to generate and save a random color palette and adjust them to your liking.
 
 ##### Deploy link
-[Try the website here!](https://michaelputnam67.github.io/color-random/)
+[Try the website here!](https://artanmyrtolli.github.io/color-random/)
 
 #### Description
 Use our site to generate a five color palette swab! The user can generate a new palette set, lock specific colors and then randomize unlocked colors. This new palette can be saved to be referenced later and can also be deleted.  
